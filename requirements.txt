@@ -1,0 +1,4 @@
+pyspark>=3.5
+requests>=2.31
+pytest>=8.0
+apache-airflow>=2.9  # opcional, só para a DAG
